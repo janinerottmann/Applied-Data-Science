@@ -1,8 +1,6 @@
 # Problem Set 1
 # Question 2
 
-# Name: Janine Rottmann
-# Matrikelnummer: 1979840
 
 #### set Working Directory ####
 getwd()

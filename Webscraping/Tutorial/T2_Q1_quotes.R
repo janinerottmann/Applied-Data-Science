@@ -1,8 +1,6 @@
 # Problem Set 2
 # Question 1
 
-# Name: Janine Rottmann
-# Matrikelnummer: 1979840
 
 library(tidyverse)
 library(rvest)
